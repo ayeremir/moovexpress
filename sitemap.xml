@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://moovexpress.fr/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://moovexpress.fr/devis</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://moovexpress.fr/services/scooter-paris</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moovexpress.fr/services/utilitaire-livraison</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://moovexpress.fr/services/navette-reguliere</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://moovexpress.fr/cgv</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://moovexpress.fr/mentions-legales</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://moovexpress.fr/politique-confidentialite</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
