@@ -1,4 +1,4 @@
-<?php $root = str_contains($_SERVER['PHP_SELF'], '/services/') ? '../' : ''; ?>
+<?php $root = (str_contains($_SERVER['PHP_SELF'], '/services/') || str_contains($_SERVER['PHP_SELF'], '/zones/')) ? '../' : ''; ?>
 <footer>
   <div class="ft">
     <div class="ft-brand">
@@ -11,7 +11,17 @@
         <li><a href="<?= $root ?>services/scooter-paris">Scooter Express</a></li>
         <li><a href="<?= $root ?>services/utilitaire-livraison">Utilitaire VL</a></li>
         <li><a href="<?= $root ?>services/navette-reguliere">Navette Régulière</a></li>
+        <li><a href="<?= $root ?>services/livraison-express-paris">Livraison Express Paris</a></li>
+        <li><a href="<?= $root ?>services/coursier-urgent-paris">Coursier Urgent 24h/24</a></li>
         <li><a href="<?= $root ?>devis">Devis en ligne</a></li>
+      </ul>
+    </div>
+    <div class="ft-col">
+      <h4>Zones</h4>
+      <ul>
+        <li><a href="<?= $root ?>zones/livraison-92-hauts-de-seine">Hauts-de-Seine (92)</a></li>
+        <li><a href="<?= $root ?>zones/livraison-93-seine-saint-denis">Seine-Saint-Denis (93)</a></li>
+        <li><a href="<?= $root ?>zones/livraison-94-val-de-marne">Val-de-Marne (94)</a></li>
       </ul>
     </div>
     <div class="ft-col">

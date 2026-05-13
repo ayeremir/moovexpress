@@ -1,5 +1,5 @@
 <?php
-$root = str_contains($_SERVER['PHP_SELF'], '/services/') ? '../' : '';
+$root = (str_contains($_SERVER['PHP_SELF'], '/services/') || str_contains($_SERVER['PHP_SELF'], '/zones/')) ? '../' : '';
 $title    = $title    ?? 'MoovExpress — Coursier Express Paris & IDF';
 $desc     = $desc     ?? 'Coursier professionnel à Paris et en Île-de-France. Livraison express en scooter et utilitaire. Devis instantané en ligne. 06 01 20 47 83';
 $canonical = $canonical ?? 'https://moovexpress.fr';

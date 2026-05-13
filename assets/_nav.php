@@ -1,7 +1,7 @@
 <?php
 // Détecte la page active
 $current = basename($_SERVER['PHP_SELF'], '.php');
-$root = str_contains($_SERVER['PHP_SELF'], '/services/') ? '../' : '';
+$root = (str_contains($_SERVER['PHP_SELF'], '/services/') || str_contains($_SERVER['PHP_SELF'], '/zones/')) ? '../' : '';
 ?>
 <div class="mmenu" id="mm">
   <nav class="mmenu-nav">
