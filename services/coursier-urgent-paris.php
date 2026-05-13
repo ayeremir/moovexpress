@@ -1,7 +1,7 @@
 <?php
 $title    = 'Coursier Urgent Paris — Dépêche en 45 min | MoovExpress';
 $desc     = 'Besoin d\'un coursier urgent à Paris ? MoovExpress dépêche un coursier en moins de 30 minutes. Service disponible 24h/24, 7j/7. Appelez le 06 01 20 47 83 ou devis en ligne.';
-$canonical = 'https://moovexpress.fr/services/coursier-urgent-paris';
+$canonical = 'https://www.moovecourse.fr/services/coursier-urgent-paris';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>
@@ -109,7 +109,7 @@ include '../assets/_nav.php';
     "@type": "LocalBusiness",
     "name": "MoovExpress",
     "telephone": "+33601204783",
-    "url": "https://moovexpress.fr"
+    "url": "https://www.moovecourse.fr"
   },
   "areaServed": {"@type": "City", "name": "Paris"},
   "description": "Service de coursier urgent à Paris disponible 24h/24 7j/7. Enlèvement en moins de 30 minutes.",

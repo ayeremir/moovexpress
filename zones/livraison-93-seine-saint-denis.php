@@ -1,7 +1,7 @@
 <?php
 $title    = 'Coursier Livraison Seine-Saint-Denis (93) — Express | MoovExpress';
 $desc     = 'Coursier express en Seine-Saint-Denis (93) : Saint-Denis, Montreuil, Aubervilliers, Bobigny, Pantin, Vincennes… Enlèvement en 30 min. Devis en ligne. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/zones/livraison-93-seine-saint-denis';
+$canonical = 'https://www.moovecourse.fr/zones/livraison-93-seine-saint-denis';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>
@@ -106,7 +106,7 @@ include '../assets/_nav.php';
     "@type": "LocalBusiness",
     "name": "MoovExpress",
     "telephone": "+33601204783",
-    "url": "https://moovexpress.fr"
+    "url": "https://www.moovecourse.fr"
   },
   "areaServed": {
     "@type": "AdministrativeArea",

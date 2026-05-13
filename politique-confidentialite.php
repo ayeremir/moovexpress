@@ -1,7 +1,7 @@
 <?php
 $title    = 'Politique de Confidentialité — MoovExpress';
 $desc     = 'Politique de confidentialité et protection des données personnelles de MoovExpress.';
-$canonical = 'https://moovexpress.fr/politique-confidentialite';
+$canonical = 'https://www.moovecourse.fr/politique-confidentialite';
 include 'assets/_head.php';
 include 'assets/_nav.php';
 ?>

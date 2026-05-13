@@ -1,7 +1,7 @@
 <?php
 $title    = 'Livraison Utilitaire VL Paris — Colis Volumineux | MoovExpress';
 $desc     = 'Service de livraison en utilitaire VL à Paris et IDF. Colis volumineux, palettes légères, matériel événementiel. Jusqu\'à 1000kg. Dès 25€ HT. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/services/utilitaire-livraison';
+$canonical = 'https://www.moovecourse.fr/services/utilitaire-livraison';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>

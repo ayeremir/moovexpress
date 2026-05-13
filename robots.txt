@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /assets/
 
-Sitemap: https://moovexpress.fr/sitemap.php
+Sitemap: https://www.moovecourse.fr/sitemap.php

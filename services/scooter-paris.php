@@ -1,7 +1,7 @@
 <?php
 $title    = 'Coursier Scooter Paris — Livraison Express | MoovExpress';
 $desc     = 'Service de coursier scooter à Paris et IDF. Livraison express de documents et colis en moins de 45 minutes. Coursiers salariés. Dès 8€ HT. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/services/scooter-paris';
+$canonical = 'https://www.moovecourse.fr/services/scooter-paris';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>

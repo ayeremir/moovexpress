@@ -1,7 +1,7 @@
 <?php
 $title    = 'Coursier Livraison Hauts-de-Seine (92) — Express | MoovExpress';
 $desc     = 'Service de coursier et livraison express dans les Hauts-de-Seine (92) : Boulogne, Neuilly, Levallois, Issy, Nanterre… Enlèvement en 30 min. Devis immédiat. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/zones/livraison-92-hauts-de-seine';
+$canonical = 'https://www.moovecourse.fr/zones/livraison-92-hauts-de-seine';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>
@@ -106,7 +106,7 @@ include '../assets/_nav.php';
     "@type": "LocalBusiness",
     "name": "MoovExpress",
     "telephone": "+33601204783",
-    "url": "https://moovexpress.fr"
+    "url": "https://www.moovecourse.fr"
   },
   "areaServed": {
     "@type": "AdministrativeArea",

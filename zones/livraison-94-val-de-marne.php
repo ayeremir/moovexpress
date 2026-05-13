@@ -1,7 +1,7 @@
 <?php
 $title    = 'Coursier Livraison Val-de-Marne (94) — Express | MoovExpress';
 $desc     = 'Coursier express dans le Val-de-Marne (94) : Créteil, Vincennes, Ivry, Vitry, Maisons-Alfort, Champigny… Enlèvement 30 min. Devis instantané. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/zones/livraison-94-val-de-marne';
+$canonical = 'https://www.moovecourse.fr/zones/livraison-94-val-de-marne';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>
@@ -106,7 +106,7 @@ include '../assets/_nav.php';
     "@type": "LocalBusiness",
     "name": "MoovExpress",
     "telephone": "+33601204783",
-    "url": "https://moovexpress.fr"
+    "url": "https://www.moovecourse.fr"
   },
   "areaServed": {
     "@type": "AdministrativeArea",

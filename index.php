@@ -1,7 +1,7 @@
 <?php
 $title    = 'MoovExpress — Coursier Express Paris & Île-de-France';
 $desc     = 'Coursier professionnel à Paris et en Île-de-France. Livraison express en scooter et utilitaire VL. Enlèvement en 30 min. Devis instantané. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr';
+$canonical = 'https://www.moovecourse.fr';
 include 'assets/_head.php';
 include 'assets/_nav.php';
 ?>

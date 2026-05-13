@@ -1,7 +1,7 @@
 <?php
 $title    = 'Mentions Légales — MoovExpress';
 $desc     = 'Mentions légales du site MoovExpress, coursier express Paris et Île-de-France.';
-$canonical = 'https://moovexpress.fr/mentions-legales';
+$canonical = 'https://www.moovecourse.fr/mentions-legales';
 include 'assets/_head.php';
 include 'assets/_nav.php';
 ?>

@@ -3,13 +3,13 @@
 
   <!-- Pages principales -->
   <url>
-    <loc>https://moovexpress.fr/</loc>
+    <loc>https://www.moovecourse.fr/</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/devis</loc>
+    <loc>https://www.moovecourse.fr/devis</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -17,31 +17,31 @@
 
   <!-- Services -->
   <url>
-    <loc>https://moovexpress.fr/services/scooter-paris</loc>
+    <loc>https://www.moovecourse.fr/services/scooter-paris</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/services/utilitaire-livraison</loc>
+    <loc>https://www.moovecourse.fr/services/utilitaire-livraison</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/services/navette-reguliere</loc>
+    <loc>https://www.moovecourse.fr/services/navette-reguliere</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/services/livraison-express-paris</loc>
+    <loc>https://www.moovecourse.fr/services/livraison-express-paris</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/services/coursier-urgent-paris</loc>
+    <loc>https://www.moovecourse.fr/services/coursier-urgent-paris</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -49,19 +49,19 @@
 
   <!-- Zones géographiques -->
   <url>
-    <loc>https://moovexpress.fr/zones/livraison-92-hauts-de-seine</loc>
+    <loc>https://www.moovecourse.fr/zones/livraison-92-hauts-de-seine</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/zones/livraison-93-seine-saint-denis</loc>
+    <loc>https://www.moovecourse.fr/zones/livraison-93-seine-saint-denis</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/zones/livraison-94-val-de-marne</loc>
+    <loc>https://www.moovecourse.fr/zones/livraison-94-val-de-marne</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
@@ -69,19 +69,19 @@
 
   <!-- Pages légales -->
   <url>
-    <loc>https://moovexpress.fr/cgv</loc>
+    <loc>https://www.moovecourse.fr/cgv</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/mentions-legales</loc>
+    <loc>https://www.moovecourse.fr/mentions-legales</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://moovexpress.fr/politique-confidentialite</loc>
+    <loc>https://www.moovecourse.fr/politique-confidentialite</loc>
     <lastmod>2026-05-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

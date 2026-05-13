@@ -1,7 +1,7 @@
 <?php
 $title    = 'Navette Régulière Entreprise Paris — Transport Récurrent | MoovExpress';
 $desc     = 'Service de navette régulière entre vos sites à Paris et IDF. Transport récurrent optimisé, tarif préférentiel sur contrat. MoovExpress. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/services/navette-reguliere';
+$canonical = 'https://www.moovecourse.fr/services/navette-reguliere';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>

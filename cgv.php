@@ -1,7 +1,7 @@
 <?php
 $title    = 'Conditions Générales de Vente — MoovExpress';
 $desc     = 'Conditions générales de vente de MoovExpress, service de coursier express à Paris et en Île-de-France.';
-$canonical = 'https://moovexpress.fr/cgv';
+$canonical = 'https://www.moovecourse.fr/cgv';
 include 'assets/_head.php';
 include 'assets/_nav.php';
 ?>

@@ -1,7 +1,7 @@
 <?php
 $title    = 'Devis Coursier en Ligne — MoovExpress Paris';
 $desc     = 'Obtenez un devis coursier instantané en ligne. Renseignez vos adresses et recevez un prix immédiat. Livraison express Paris et IDF. 06 01 20 47 83';
-$canonical = 'https://moovexpress.fr/devis';
+$canonical = 'https://www.moovecourse.fr/devis';
 include 'assets/_head.php';
 include 'assets/_nav.php';
 ?>

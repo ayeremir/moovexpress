@@ -1,7 +1,7 @@
 <?php
 $title    = 'Livraison Express Paris — Enlèvement en 30 min | MoovExpress';
 $desc     = 'Service de livraison express à Paris et Île-de-France. Enlèvement en 30 minutes, livraison en moins d\'une heure. Coursiers salariés, 7j/7 24h/24. Devis en ligne immédiat.';
-$canonical = 'https://moovexpress.fr/services/livraison-express-paris';
+$canonical = 'https://www.moovecourse.fr/services/livraison-express-paris';
 include '../assets/_head.php';
 include '../assets/_nav.php';
 ?>
@@ -114,7 +114,7 @@ include '../assets/_nav.php';
     "@type": "LocalBusiness",
     "name": "MoovExpress",
     "telephone": "+33601204783",
-    "url": "https://moovexpress.fr"
+    "url": "https://www.moovecourse.fr"
   },
   "areaServed": {"@type": "City", "name": "Paris"},
   "description": "Service de livraison express à Paris avec enlèvement en 30 minutes et livraison en moins d'une heure.",

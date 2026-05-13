@@ -2,7 +2,7 @@
 $root = (str_contains($_SERVER['PHP_SELF'], '/services/') || str_contains($_SERVER['PHP_SELF'], '/zones/')) ? '../' : '';
 $title    = $title    ?? 'MoovExpress — Coursier Express Paris & IDF';
 $desc     = $desc     ?? 'Coursier professionnel à Paris et en Île-de-France. Livraison express en scooter et utilitaire. Devis instantané en ligne. 06 01 20 47 83';
-$canonical = $canonical ?? 'https://moovexpress.fr';
+$canonical = $canonical ?? 'https://www.moovecourse.fr';
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -18,7 +18,7 @@ $canonical = $canonical ?? 'https://moovexpress.fr';
 <meta property="og:title" content="<?= htmlspecialchars($title) ?>">
 <meta property="og:description" content="<?= htmlspecialchars($desc) ?>">
 <meta property="og:url" content="<?= $canonical ?>">
-<meta property="og:image" content="https://moovexpress.fr/assets/og-image.jpg">
+<meta property="og:image" content="https://www.moovecourse.fr/assets/og-image.jpg">
 <meta property="og:locale" content="fr_FR">
 
 <!-- Schema.org LocalBusiness -->
@@ -30,7 +30,7 @@ $canonical = $canonical ?? 'https://moovexpress.fr';
   "description": "<?= htmlspecialchars($desc) ?>",
   "telephone": "+33601204783",
   "email": "moovexpresstransport@gmail.com",
-  "url": "https://moovexpress.fr",
+  "url": "https://www.moovecourse.fr",
   "areaServed": ["Paris", "Île-de-France"],
   "openingHours": "Mo-Su 00:00-23:59",
   "priceRange": "€€"
